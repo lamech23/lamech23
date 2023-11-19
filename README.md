@@ -10,7 +10,7 @@
 
 🤝 Let's connect! I'm always excited to collaborate, share insights, and contribute to impactful projects. Feel free to reach out for discussions on software development, technology, or anything tech-related.
 
-
+![lamech23 GitHub stats](https://github-readme-stats.vercel.app/api?username=lamech23&theme=dark&show_icons=true)
 <!--
 **lamech23/lamech23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
