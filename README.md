@@ -1,6 +1,5 @@
-### Hi there 👋
 
-### Hi there 👋 I'm  a passionate software developer dedicated to crafting robust and innovative solutions that drive efficiency and enhance user experiences.
+ Hi there 👋 I'm  a passionate software developer dedicated to crafting robust and innovative solutions that drive efficiency and enhance user experiences.
 
 🚀 I specialize in  in fullstack  development, i am conversernt with   javascript elixir phoenix and phoenix-liveView  react saas tailwind, postgres mysql, leveraging my [number of years] of experience in the industry.
 
